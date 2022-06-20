@@ -1,0 +1,14 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.ql-counter {
+  margin: 0 0.5rem 0.5rem 0;
+  text-align: right;
+}
+
+button.ql-active {
+  color: #333 !important;
+  background-color: #e6e6e6 !important;
+}
