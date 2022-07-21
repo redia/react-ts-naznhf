@@ -11,7 +11,7 @@ import './style.css';
 
 export default function app() {
   const maxLength = 30;
-  const formats = ['bold', 'italic', 'strike', 'underline'];
+  const formats = ['bold', 'italic', 'strike', 'underline', 'link'];
   enum AcceptedKeyCode {
     Backspace = '8',
     Shift = '16',
